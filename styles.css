@@ -1,0 +1,47 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #4ecccc;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecccc;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #4ecccc;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.p1FontColor{
+  color: rgb(200, 226, 160);
+}
+.p2FontColor{
+  color: rgb(171, 115, 209);
+}
